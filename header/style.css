@@ -1,0 +1,18 @@
+#contenedor{
+   border: 2px solid red;
+}
+
+#contenedor1{
+    height: 100px;
+    background-color: yellow;
+}
+
+#contenedor2{
+    height: 100px;
+    background-color: greenyellow;
+}
+
+#contenedor3{
+    height: 100px;
+    background-color: red;
+}
